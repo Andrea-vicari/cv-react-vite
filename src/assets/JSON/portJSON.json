@@ -1,0 +1,105 @@
+[{
+    "introImage":"./works_img/Cr_intro.png",
+    "thumbImage":"./works_img/Cr_thumb_land.png",
+    "type":"portfolio_post",
+    "shortTitle":"cashcalculator",
+    "title":"Calculator",
+    "excerpt":"Interface built with Bootstrap & Javascript",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-js-square project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"https://github.com/Andrea-vicari/Cash_Calculator/",
+    "extLink":"no_link",
+    "description":"<p>This project starts from an idea to transform in a real case, a Javascript algorithm, developed while i was attending a course. The main task of the original 👉<a href=\"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register\" target=\"_blank\"> Project</a>, needed to achieve a Certification from FreeCodeCamp, was <span style=\"font-style:italic;font-size:19px;\">to Design a cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument.</span></p><p>So, using Boostrap5, i decided to extend this algorithm to simulate a Cash calculator.</p><p>Basically This Javascript User Interface, given a Price Amount and Paid Amount, based on what is present in the Cash-Drawer can:</p> <p>-Calculate what change give back, divided in each unit</p><p>-Update the Cash-Drawer</p><p>-Keep Track of all the Transactions</p><p>-Inform the user either there are some errors or the cash is impossible to cover.</p><p>It also, working with JSON and localStorage, keeping track of all the Transaction done, summed up in a Report page, where the user can download a JSON file containing all the transactions.</p><p>Step by step instructions on Loom</p><ul> <li> STEP 1 - <a href=\"https://www.loom.com/share/1efa09a420ac436bb1d041834a1f54e2?sid=10c7ccd2-aba3-4590-81be-bf91236ae239\" target =\"_blank\">Intro</a> </li> <li> STEP 2 - <a href=\"https://www.loom.com/share/95b404f9d6674ecbb5bf640f0d8e97a5?sid=8e2a8187-dfc7-4d3a-9081-52be0766a165\" target =\"_blank\">Check the Drawer</a> </li> <li> STEP 3 - <a href=\"https://www.loom.com/share/9f139f7742c44822998f68c433490789?sid=7e6b2a93-51b7-4c3e-9287-dd21050a5bcc\" target =\"_blank\">Fill the Drawer</a> </li> <li> STEP 4 - <a href=\"https://www.loom.com/share/804eec38e76142ecaf4ebc39681bb3ef?sid=e7afda2e-bd43-4dd1-9ff9-20ea9e6004fa\" target =\"_blank\">Calculator page</a> </li> <li> STEP 5 - <a href=\"https://www.loom.com/share/06f8f394c48c4cc9ba77d3565af00104?sid=49f172af-c3fd-4de7-ba58-71c86ee2c62c\" target =\"_blank\">Report page</a> </li> </ul>", "modal_images":["./works_img/Cr_large.jpg"]
+
+},{
+    "introImage":"./works_img/Resume_intro.png",
+    "thumbImage":"./works_img/Resume_thumb_land.png",
+    "type":"portfolio_post",
+    "shortTitle":"resume",
+    "title":"This Website",
+    "excerpt":"Portfolio website coded with React.js and Bootstrap5",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"#",
+    "GITLink":"#",
+    "description":"<p>Project installed using Vite and Bootstrap, with the npm package <code>npm install react-bootstrap bootstrap</code>.  Portfolio projects are stored locally in a JSON file, coming from an old version of my Portfolio. Datas of the projects are fetched using UseState Hook and layout composed mapping through the objects. Because some elements contain HTML tags, i used <code>dangerouslySetInnerHTML</code> property to render them correctly. Each projects, after the click, opens the Description using the Bootstrap Modals.</p>",
+    "modal_images":["./works_img/Resume_GitHub_cover.jpg"]
+},{
+    "introImage":"./works_img/Geotrak_thumb_land.png",
+    "thumbImage":"./works_img/Geotrak_thumb_land.png",
+    "type":"portfolio_post",
+    "title":"Geotrak",
+    "shortTitle":"geotrak",
+    "excerpt":"Rental, Assistance of R/C demolition machines.",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"http://www.geotrak.it/",
+    "GITLink":"no_git_link",
+    "description":"<p>Geotrak S.r.l: a company specialized in the sale, rental and assistance of radio-controlled demolition machines. For this project, i worked together with a graphic-designer <a href=\"https://raffaella-nozza-comunicazione.business.site/\" target=\"_blank\">Raffaella Nozza Comunicazione</a>, who provided me all the graphic assets like the logo, the icons, technical sheets, list of products ecc.<br>I used BeTheme with Visual composer to design the layout and completely cooperated with the customer to sort the categories the several tools. We decided to use an AJAX plugin (Cube portfolio) to compose the Product page, which has a pretty and clean design.</p>",
+    "modal_images":["./works_img/Geotrak_large.jpg"]
+},
+{
+    "introImage":"./works_img/OutletPietreNaturali.png",
+    "thumbImage":"./works_img/OutletPietre_thumb.png",
+    "type":"portfolio_post",
+    "shortTitle":"outlet",
+    "title":"Outlet Pietra",
+    "excerpt":"Cladding Stones sales market company",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"http://www.outletdellapietranaturale.it/",
+    "GITLink":"no_git_link",
+    "description":"Website for a company near Bergamo, operating in the Cladding Stones sales market. For this project i was involved in the design process, using Wordpress and customizing BeTheme with Visual Composer plugin, working mailnly on the Css part. After a briefing with the client, I chose the design that best suited its needs and and I took care of the content organization as well as the graphics and the logo restyling.",
+    "modal_images":["./works_img/OutletPietre_large.png"]
+
+
+},
+
+{
+    "introImage":"./works_img/EuroPRG_intro.png",
+    "thumbImage":"./works_img/EuroPRG_thumb_land.png",
+    "modal_images":"./works_img/EuroPRG_large.jpg",
+    "type":"portfolio_post",
+    "title":"Euro PRG",
+    "shortTitle":"euroPRG",
+    "excerpt":"A multi-disciplinary engineering plants company",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"http://www.europrg.it/",
+    "GITLink":"no_git_link",
+    "description":"<p>Europrogetti Engineering S.r.l. is a multi-disciplinary engineering company specialized in development of industrial plants. This project was managed during my experience in OneCall S.r.l a former Marketing agency in Monza. This website was developed with WordPress using a <span class=\"underlined_parag\">custom Wordpress Theme</span> coded by my self <span class=\"underlined_parag\">converting a free Bootstrap HTML template</span>. The template used was <a href=\"https://usebootstrap.com/theme/andia\" target=\"_blank\">Andia</a> and it is still working smooth, after almost 10 years. The website was developed in two languages, without using a plugin but simply inserting the different languages in two different directories. It was a low-budget project, with a custom made theme, but it is ligth-weight and <span class=\"underlined_parag\">still functional and responsive after many years</span></p>"
+
+
+},
+{
+    "introImage":"./works_img/Clear_intro.png",
+    "thumbImage":"./works_img/Clear_thumb_land.png",
+    "modal_images":"./works_img/Clear_large.jpg",
+    "type":"portfolio_post",
+    "title":"Clear 2.0",
+    "shortTitle":"clear",
+    "excerpt":"Networking Service, I.T. & TeleComunication",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"https://clearitaly.com/",
+    "GITLink":"no_git_link",
+    "description":"<p>Clear 2.0, based in Vertova, Bergamo, a company with more than 20 years of background in the I.T Networking business. The customer needed to re-style his previous website. Layout composed using Betheme, Visual composer and <span class=\"underlined_parag\">a lot of Css customizations</span> all well commented for future changes. The task was to find a clear and high-tech design, i took particularly care of the About section, showing all the several product they sell. Since they are electronic-component reseller, after a year, they decided to add a private e-commerce area, using <span class=\"underlined_parag\">Woocommerce</span> in order to sell only to selected Customers. The main task was to collect, sort all the technical sheets, the descriptions and <span class=\"underlined_parag\">to train the Customer to insert all the products</span> using the Woocommerce back-end.</p>"
+
+},
+{
+    "introImage":"./works_img/Osteria-La-vecchia-lira-Milano-logo.png",
+    "thumbImage":"./works_img/OsteriaLaVecchiaLira_thumb.png",
+    "modal_images":"./works_img/OsteriaLaVecchiaLira_large.jpg",
+    "type":"portfolio_post",
+    "title":"La Vecchia Lira",
+    "shortTitle":"vecchialira",
+    "excerpt":"Website for a typical restaurant in Brera, Milan",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"no_git_link",
+    "extLink":"https://www.osteriavecchialira.it/",
+    "description":"La Vecchia Lira, <span class=\"underlined_parag\">an historical restaurant in Largo La Foppa, Milan.</span> The customer needed to completely restyle his previous old-school not responsive website. The main task was not to completely change the old-style \"flavour\" thinking about the historical context this restaurant is. I developed the website with BeTheme, taking care of sorting all the recipes, the wines trying to compose a clear layout, especially in the Menu and Cantina pages, as well as the Galleria page, filled with many photos taken from a professional food-photographer.<span class=\"underlined_parag\"> Technically not a big project, but with many text and photos to manage and sort</span>."
+
+
+}]
+

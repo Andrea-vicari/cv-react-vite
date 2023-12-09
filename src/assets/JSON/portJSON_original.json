@@ -1,0 +1,118 @@
+[{
+    "introImage":"./works_img/Cr_intro.png",
+    "thumbImage":"./works_img/Cr_thumb_land.png",
+    "type":"portfolio_post",
+    "shortTitle":"cashcalculator",
+    "title":"Calculator",
+    "excerpt":"A single page application, using Bootstrap5 & JS",
+    "category":"Javascript",
+    "cat_symbol":"<i className=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"http://anvicdev.byethost7.com/cashreg/",
+    "description":"<p>This project starts from an idea to transform in a real case, a Javascript algorithm, developed while i was attending a course. The main task of the original 👉<a href=\"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register\" target=\"_blank\"> Project</a>, needed to achieve a Certification from FreeCodeCamp, was <span style=\"font-style:italic;font-size:19px;\">to Design a cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument. Cid is a 2D array listing available currency.</span></p><p>So, using Boostrap5, i decided to extend this algorithm to simulate a Cash calculator. Basically This Javascript User Interface, given a Price Amount and Paid Amount, based on what is present in the Cash-Drawer can:</p> <p>-Calculate what change give back, divided in each unit</p><p>-Update the Cash-Drawer</p><p>-Keep Track of all the Transactions</p><p>-Inform the user either there are some errors or the cash is impossible to cover.</p><p>It also, working with JSON and localStorage, keeping track of all the Transaction done, summed up in a Report page, where the user can download a JSON file containing all the transactions.</p><p><span style=\"text-decoration:underline\">Below some excerpts from the Cash_Register.js the file behind the calculator.</span</p><p>Beyond the algorithm that calculate the cash to give back, there is an object constructor</p><img src=\"./works_img/txConstructor.png\" className=\"post_image\"><p>Every time a (valid) transaction happens, an object, summarizing datas like the price, the amount paid, the cash to give back and the new drawer is created and put in an array of transactions. This array is then stored locally, using lolcalStorage function (See below image), to be used in the Report page.</p><img src=\"./works_img/txConstructor_localStorage.png\" className=\"post_image\"><p>In the report page, the list is retrieved from the localStorage to compose the list of the Transactions and it is possible to download it in a JSON file, using FileSaver.js. </p><img src=\"./works_img/txConstructor_localStorage.png\" className=\"post_image\"><img src=\"./works_img/txConstructor_localStorage.png\" className=\"post_image\"><p>All the files, are available on my <a href=\"https://github.com/Andrea-vicari/Cash_register\">GitHub</a> page</span> and here the <a href=\"http://anvicdev.byethost7.com/cashreg/\">link</a> of the live demo with an istruction page.</p><p>👉👉<span style=\"text-decoration:underline\">I'm currently working on a version of this project using MYSql and NODE.js to store locally in the Database both Transactions and Drawer</span></p>",
+    "modal_images":["./works_img/Cr_large.jpg"]
+
+},
+    {
+    "introImage":"./works_img/WorldFood_intro.png",
+    "thumbImage":"./works_img/WorldFood_thumb.png",
+    "type":"portfolio_post",
+    "shortTitle":"worldfood",
+    "title":"World Food",
+    "excerpt":"A Front-end project using API, Css FlexBox and JS",
+    "category":"Javascript",
+    "cat_symbol":"<i className=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"http://anvicdev.byethost7.com/world_food/",
+    "description":"<p>World Food, a collection of international recipes,retrieved from a free API, the <a href=\"https://www.themealdb.com/\" target=\"blank\">MealDB</a>.<br><span className=\"underlined_parag\">A front-end project</span> using API, JSON, Css FlexBox and Javascript. The layout is <span className=\"underlined_parag\">totally coded from scratch</span>, with HTML, CSS and it is completely responsive deeply using css FlexBox.<br>All the content of the pages, are dinamically composed via JSON and Javascript. I found interesting combining together the Json file fetched from the API and the Flags, generated via CSS using FlagIcons, basically using a forEach and a switch/case. <span className=\"underlined_parag\">Below an extraction of the JS code</span><img src=\"./works_img/WorldFood_code.png\" className=\"code_image\">All the code is available at <a href=\"https://github.com/Andrea-vicari/WorldRecipe\" target=\"blank\">GitHub</a></p>",
+    "modal_images":["./works_img/WorldFood_large.png"]
+
+
+},{
+    "introImage":"./works_img/Resume_intro.png",
+    "thumbImage":"./works_img/Resume_thumb_land.png",
+    "type":"portfolio_post",
+    "shortTitle":"resume",
+    "title":"This Website",
+    "excerpt":"Tecnhical informations about this website",
+    "category":"Javascript",
+    "cat_symbol":"<i className=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"#",
+    "description":"<p>Some technical infos about this website. Totally handcode started literally from a blank html file. Layout Responsive, using Media Queries ans some Css FlexBox rules. The most interesting aspect is how Projects a Blog pages work. The articles of this pages are locally stored in two JSON files.</p><img src=\"./works_img/Json_resume_img.png\" className=\"post_image\"><p>They uses the same HTML file and a Javascript file is in charge to select which one to fetch, depending on the address of the page.(Below some images)</p> <img src=\"./works_img/Json_resume_img_2.png\" className=\"post_image\"> <p>Also the sidebar, in Desktop view, works in the same way, selectively get the datas from the corresponding JSON.</p>",
+    "modal_images":[]
+
+
+},{
+    "introImage":"./works_img/Geotrak_thumb_land.png",
+    "thumbImage":"./works_img/Geotrak_thumb_land.png",
+    "type":"portfolio_post",
+    "title":"Geotrak",
+    "shortTitle":"geotrak",
+    "excerpt":"Rental, Assistance of R/C demolition machines.",
+    "category":"Wordpress",
+    "cat_symbol":"<i className=\"fab fa-wordpress project_label_icon\"></i>",
+    "extLink":"http://www.geotrak.it/",
+    "description":"<p>Geotrak S.r.l: a company specialized in the sale, rental and assistance of radio-controlled demolition machines. For this project, i worked together with a graphic-designer <a href=\"https://raffaella-nozza-comunicazione.business.site/\" target=\"_blank\">Raffaella Nozza Comunicazione</a>, who provided me all the graphic assets like the logo, the icons, technical sheets, list of products ecc.<br>I used BeTheme with Visual composer to design the layout and completely cooperated with the customer to sort the categories the several tools. We decided to use an AJAX plugin (Cube portfolio) to compose the Product page, which has a pretty and clean design.</p>",
+    "modal_images":["./works_img/Geotrak_large.jpg"]
+
+
+},
+{
+    "introImage":"./works_img/OutletPietreNaturali.png",
+    "thumbImage":"./works_img/OutletPietre_thumb.png",
+    "type":"portfolio_post",
+    "shortTitle":"outlet",
+    "title":"Outlet Pietra",
+    "excerpt":"Cladding Stones sales market company",
+    "category":"Wordpress",
+    "cat_symbol":"<i className=\"fab fa-wordpress project_label_icon\"></i>",
+    "extLink":"http://www.outletdellapietranaturale.it/",
+    "description":"Website for a company near Bergamo, operating in the Cladding Stones sales market. For this project i was involved in the design process, using Wordpress and customizing BeTheme with Visual Composer plugin, working mailnly on the Css part. After a briefing with the client, I chose the design that best suited its needs and and I took care of the content organization as well as the graphics and the logo restyling.",
+    "modal_images":["./works_img/OutletPietre_large.png"]
+
+
+},
+
+{
+    "introImage":"./works_img/EuroPRG_intro.png",
+    "thumbImage":"./works_img/EuroPRG_thumb_land.png",
+    "modal_images":"./works_img/EuroPRG_large.jpg",
+    "type":"portfolio_post",
+    "title":"Euro PRG",
+    "shortTitle":"euroPRG",
+    "excerpt":"A multi-disciplinary engineering plants company",
+    "category":"Wordpress",
+    "cat_symbol":"<i className=\"fab fa-wordpress project_label_icon\"></i>",
+    "extLink":"http://www.europrg.it/",
+    "description":"<p>Europrogetti Engineering S.r.l. is a multi-disciplinary engineering company specialized in development of industrial plants. This project was managed during my experience in OneCall S.r.l a former Marketing agency in Monza. This website was developed with WordPress using a <span className=\"underlined_parag\">custom Wordpress Theme</span> coded by my self <span className=\"underlined_parag\">converting a free Bootstrap HTML template</span>. The template used was <a href=\"https://usebootstrap.com/theme/andia\" target=\"_blank\">Andia</a> and it is still working smooth, after almost 10 years. The website was developed in two languages, without using a plugin but simply inserting the different languages in two different directories. It was a low-budget project, with a custom made theme, but it is ligth-weight and <span className=\"underlined_parag\">still functional and responsive after many years</span></p>"
+
+
+},
+{
+    "introImage":"./works_img/Clear_intro.png",
+    "thumbImage":"./works_img/Clear_thumb_land.png",
+    "modal_images":"./works_img/Clear_large.jpg",
+    "type":"portfolio_post",
+    "title":"Clear 2.0",
+    "shortTitle":"clear",
+    "excerpt":"Networking Service, I.T. & TeleComunication",
+    "category":"Wordpress",
+    "cat_symbol":"<i className=\"fab fa-wordpress project_label_icon\"></i>",
+    "extLink":"https://clearitaly.com/",
+    "description":"<p>Clear 2.0, based in Vertova, Bergamo, a company with more than 20 years of background in the I.T Networking business. The customer needed to re-style his previous website. Layout composed using Betheme, Visual composer and <span className=\"underlined_parag\">a lot of Css customizations</span> all well commented for future changes. The task was to find a clear and high-tech design, i took particularly care of the About section, showing all the several product they sell. Since they are electronic-component reseller, after a year, they decided to add a private e-commerce area, using <span className=\"underlined_parag\">Woocommerce</span> in order to sell only to selected Customers. The main task was to collect, sort all the technical sheets, the descriptions and <span className=\"underlined_parag\">to train the Customer to insert all the products</span> using the Woocommerce back-end.</p>"
+
+},
+{
+    "introImage":"./works_img/Osteria-La-vecchia-lira-Milano-logo.png",
+    "thumbImage":"./works_img/OsteriaLaVecchiaLira_thumb.png",
+    "modal_images":"./works_img/OsteriaLaVecchiaLira_large.jpg",
+    "type":"portfolio_post",
+    "title":"La Vecchia Lira",
+    "shortTitle":"vecchialira",
+    "excerpt":"Website for a typical restaurant in Brera, Milan",
+    "category":"Wordpress",
+    "cat_symbol":"<i className=\"fab fa-wordpress project_label_icon\"></i>",
+    "extLink":"https://www.osteriavecchialira.it/",
+    "description":"La Vecchia Lira, <span className=\"underlined_parag\">an historical restaurant in Largo La Foppa, Milan.</span> The customer needed to completely restyle his previous old-school not responsive website. The main task was not to completely change the old-style \"flavour\" thinking about the historical context this restaurant is. I developed the website with BeTheme, taking care of sorting all the recipes, the wines trying to compose a clear layout, especially in the Menu and Cantina pages, as well as the Galleria page, filled with many photos taken from a professional food-photographer.<span className=\"underlined_parag\"> Technically not a big project, but with many text and photos to manage and sort</span>."
+
+
+}]
+

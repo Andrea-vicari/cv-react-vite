@@ -1,0 +1,102 @@
+[{
+    "introImage":"./blog_img/ES6Arrows_intro.png",
+    "thumbImage":"./blog_img/ES6Arrows_thumb-land.png",
+    "type":"blog_post",
+    "shortTitle":"es6tip2",
+    "title":"ES6 TIP#2",
+    "excerpt":"Some examples of ES6 destructuring Arrays",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"",
+    "description":"<p class=\"single_sec_title\" style=\"text-decoration:underline\">ES6 Array Destructuring</p> <p class=\"single_sec_desc\"> Destructuring means extract datas from Arrays or Objects, It's very important to learn especially when learning React. Check out this code:</p><img src=\"./blog_img/ES6_dest_arr.png\" class=\"post_image\"><p>ES6 makes this process very compact with destructuring.</p><p>============</p><p class=\"single_sec_title\"style=\"text-decoration:underline\">Combined destructuring</p><p>This is a combination between ES6 destructuriung Arrays and Objects. See the image below</p><img src=\"./blog_img/ES6_dest_combo.png\" class=\"post_image\"><p>Changing the position of the {user}, can change what extract from the object nested in the array</p>",
+    "modal_images":[]
+},
+    {
+    "introImage":"./blog_img/surge_intro.png",
+    "thumbImage":"./blog_img/surge_land.png",
+    "type":"blog_post",
+    "shortTitle":"surge",
+    "title":"Surge",
+    "excerpt":"Simple, single-command web publishing.",
+    "category":"React",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon\"></i>",
+    "extLink":"https://surge.sh/",
+    "description":"<p>Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.<a href=\"\" target=\"_blank\"> Surge</a> is a tool, a single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line. It is a very powerful tool to publish on-line a local project, in just two lines of code. With Surge, you’ll easily have something online quickly. First install the command line tool using npm and then run surge within any directory you wish to publish onto the web. All you need to get started is:</p><ul><li>First, ensure you have a recent version of Node.js<li><li>Then, install Surge using npm by running the following command:<img src=\"./blog_img/surge.png\"class=\"post_image\"></li><li>Now, run <span class=\"cyan\">surge</span> from within any directory, to publish that directory onto the web.</li></ul><p>That’s it! Running surge inside the directory you want to deploy will get your started. You’ll be able to create an account right from the command line, deploy, and host your site for free on Surge.</p>",
+    "modal_images":[]
+},{
+    "introImage":"./blog_img/ES6Arrows_intro.png",
+    "thumbImage":"./blog_img/ES6Arrows_thumb-land.png",
+    "type":"blog_post",
+    "shortTitle":"es6tip1",
+    "title":"ES6 TIP#1",
+    "excerpt":"Some examples of ES6 javascript basic concepts",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"",
+    "description":"<p class=\"single_sec_title\" style=\"text-decoration:underline\">Arrow Functions DEFAULT parameters</p> <p class=\"single_sec_desc\"> In order to help us create more flexible functions, ES6 introduces default parameters for functions. Check out this code:</p><img src=\"./blog_img/ES6_arrow.png\" class=\"post_image\"><p>The default parameter kicks in when the argument is not specified (it is undefined).</p><p>============</p><p class=\"single_sec_title\"style=\"text-decoration:underline\">Spread operator ... in ARRAYS</p> <p class=\"single_sec_desc\"> SUPER USEFUL TO CREATE A SHALLOW COPY OF THE ARRAY<br> USED TO COPY AN ARRAY : Just like spread for argument lists, ... can be used anywhere in the array literal, and may be used more than once. </p><img src=\"./blog_img/ES6_spreadArray.png\"class=\"post_image\"><p>============</p><p class=\"single_sec_title\"style=\"text-decoration:underline\">Spread operator ... in FUNCTIONS</p> <p class=\"single_sec_desc\"> See how the ... operator workswith function arguments and how it creates an array </p><img src=\"./blog_img/ES6_spread_func.png\"class=\"post_image\">",
+    "modal_images":[]
+},{
+    "introImage":"./blog_img/api_intro.png",
+    "thumbImage":"./blog_img/api_thumb-land.png",
+    "type":"blog_post",
+    "shortTitle":"freeAPI",
+    "title":"Some free API",
+    "excerpt":"Some free API where get useful datas for projects",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"https://pythontutor.com/javascript.html#mode=edit",
+    "description":"<p>While developping, after spend times and efforts learning Objects, DOM, JSON files, sometimes we need some datas to compose the pages of our projects. Fortunately there are many FREE, or initially free, APIs where retrive useful datas, for several arguments. Foods, Drinks, GPS position, Sport results, currencies, images, videos and many many others. Below a short list of some of them, there are various others, some examples:</p> <ul> <li><a href=\"https://www.themealdb.com/\" target=\"_blank\">The MEALDB </a> A collection of recipes</li> <li><a href=\"https://coinpaprika.com/\" target=\"_blank\">CoinPaprika</a> Crypto Currency rankings</li> <li><a href=\"https://www.thesportsdb.com/\" target=\"_blank\">The Sport DB</a> Many datas, results, teams, players of many sports</li> <li><a href=\"https://pixabay.com/it/service/about/api/\" target=\"_blank\">Pixabay</a> The Official Pixabay API for images</li> <li><a href=\"https://www.mapbox.com/\" target=\"_blank\">MapBox</a> Maps and navigation datas</li> </ul> <p>This APIs offer datas via JSON format, they are useful also when learning to work with Objects.</p>",
+    "modal_images":["./blog_img/api_large.jpg"]
+},{
+    "introImage":"./blog_img/CodeWars_intro.png",
+    "thumbImage":"./blog_img/Codewars_thumb-land.png",
+    "type":"blog_post",
+    "shortTitle":"codewars",
+    "title":"Codewars",
+    "excerpt":"A platform created to improve programming skills",
+    "category":"Css",
+    "cat_symbol":"<i class=\"fab fa-css project_label_icon\"></i>",
+    "extLink":"https://www.codewars.com/",
+    "description":"<p>As a developer is really important to practice what you've learnt by some exercises. <a href=\"https://www.codewars.com/\" target=\"_blank\">CodeWars</a> is a platform created to improve programming skills through challenges called katas and community support. It is a collective resource where programmers from all over the world create, improve and solve kata challenges. All kata solutions are also opensourced and it is a great resource to improve your coding skills. I started Codewars months ago and found it very useful,and funny. As soon as you start the first exercises, you will find, it's a common opinion, <span class=\"cyan\">really hard to solve</span> since there are many test to pass to solve the exercise. When you submit your code, the Solutions tag will be unblocked and you will be able to see other solutions. At first, you will be a 8kyu coder. As you might already noticed, punctuation system and exercises clasification are inspired in Karate. I personally reached level 6, every kata is a big challenge but i think it's worth your time.</p><p>Below an example of a Level 6 Kata, Javascript language, called  \"Greed is Good\". </p><img src=\"./blog_img/CodeWars_example.jpg\"class=\"post_image\"><p>I solved it, but it took me many time!</p><p style=\"text-decoration:underline;\">Practicing code is the best way to learn but sometimes is difficult to find exercises, this website isd perfect for this scope.</p>",
+    "modal_images":[""]
+},{
+    "introImage":"./blog_img/CSS_diner_intro.png",
+    "thumbImage":"./blog_img/CSS_diner_thumb.png",
+    "type":"blog_post",
+    "shortTitle":"cssdiner",
+    "title":"Css Diner",
+    "excerpt":"An interactive game to learn Css selectors in depth",
+    "category":"Css",
+    "cat_symbol":"<i class=\"fab fa-css project_label_icon\"></i>",
+    "extLink":"https://flukeout.github.io/",
+    "description":"<p>After a three-year break, i decided to go back into the development and, while attending a Javascript course, i was asked to solve a game called CSS diner. It's basically a Sushi Bento table, with some objects on, like plates, pickles, apples ecc. The task, to go on in the game, is to select the objects on the table using CSS selector.</p><p> As long as you proceed, i'll have to use complex nested multiple selector, n:th() child s ecc. It is funny and really really useful, either you are a beginner or you just need a refresh, as my case. The exercise is free and available at this link on <a href  =\"https://flukeout.github.io/\" target =\"_blank\">GitHub</p>",
+    "modal_images":["./blog_img/CSS_diner_large.jpg"]
+},
+{
+    "introImage":"./blog_img/Debugger_intro.png",
+    "thumbImage":"./blog_img/Debugger_thumb.png",
+    "type":"blog_post",
+    "shortTitle":"visualdebugger",
+    "title":"Python Tutor",
+    "excerpt":"Online JavaScript compiler, visual debugger for JS code",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-js-square project_label_icon\"></i>",
+    "extLink":"https://pythontutor.com/javascript.html#mode=edit",
+    "description":"<p><a href  =\"https://pythontutor.com/javascript.html#mode=edit\" target =\"_blank\">Python Tutor</a> is an online tool for code debugging. There are many on the internet , as well as some VS Code extensions, but this one is a little different. You can visually see the execution of the code you are debugging. After click Visualize execution button, it is possible to go back to the first step of the code and go on step by step on the code, checking the execution of each instruction. On the right part of the screen it shows all the blocks like arrays, objects, variables ecc. and some arrows will show how, for example, a for-loop get and operate the values, making the debugging operations really smooth, or less harder. Finally it is very useful when you are doing your first step in a new language, helping you visualizing how the code works. It has a limitate number of lines to manage but it's really useful on many situations.</p>",
+    "modal_images":["./blog_img/Debugger_large.jpg"]
+},
+{
+    "introImage":"./blog_img/FlexZomb_intro.png",
+    "thumbImage":"./blog_img/FlexZomb_thumb-land.png",
+    "type":"blog_post",
+    "shortTitle":"flexboxZombies",
+    "title":"Flexbox Zombies",
+    "excerpt":"An interactive game to learn CSS FlexBox",
+    "category":"Css",
+    "cat_symbol":"<i class=\"fab fa-css project_label_icon\"></i>",
+    "extLink":"https://flexboxzombies.com/p/flexbox-zombies",
+    "description":"<p>As a front end developer, it is very important, in my opinion, to learn Css Flexbox. It is a very powerful tool, especially when working on some Responsive projects. Simply speaking, CSS Flexbox provides flexibility, allowing for elements to be placed on a single axis, either horizontally or vertically. At first it seems very difficult to learn, but once you start to practice a little, you will easy understand its power. In order to better understand and practice, i discovered this game called <a href=\"https://flexboxzombies.com/p/flexbox-zombies\" target=\"_blank\">FlexBox Zombies</a>. An Educational Game. Each section unravels part of the plot, gives you expertise over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it. <span class=\"cyan\">It is very hard, it tooks at least a week to be completed</span> but it's funny and useful to learn FlexBox.</p>",
+    "modal_images":["./blog_img/FlexZomb_large.jpg"]
+}
+]
+
