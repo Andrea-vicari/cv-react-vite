@@ -4,8 +4,8 @@
 
 ## Intro
 Repository for my portfolio website coded with React.js
-Project installed using Vite and Bootstrap, with the npm package `npm install react-bootstrap bootstrap.
-Portfolio projects are stored locally in a JSON file, coming from an old version of my Portfolio.
+Project installed using Vite and Bootstrap, with the npm package `npm install react-bootstrap bootstrap.\
+Portfolio projects are stored locally in a JSON file, coming from an old version of my Portfolio.\
 Datas of the projects are fetched using UseState Hook and layout composed mapping through the objects. Because some elements contain HTML tags, i used `dangerouslySetInnerHTML` property to render them correctly.
 Each projects, after the click, opens the Description using the Bootstrap Modals.
 
