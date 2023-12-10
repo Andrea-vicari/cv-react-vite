@@ -1,5 +1,5 @@
-import {React} from 'react';
-import {ReactDOM} from 'react-dom/client';
+import React from 'react';
+import ReactDOM  from 'react-dom/client';
 import {Navbar} from './Navbar.jsx';
 import {Hero} from './Hero.jsx';
 import {About} from './About.jsx';
