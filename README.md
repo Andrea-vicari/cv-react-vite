@@ -1,6 +1,6 @@
 # Portfolio Website
 
-<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/CR_GitHub_cover.jpg" width="400px">
+<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Resume_GitHub_cover.jpg" width="400px">
 
 ## Intro
 Repository for my portfolio website coded with React.js.
