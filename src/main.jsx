@@ -11,7 +11,7 @@ import {Footer} from './Footer.jsx';
 
 
 import './index.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './bootstrap/dist/css/bootstrap.min.css';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
