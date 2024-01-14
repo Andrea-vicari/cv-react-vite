@@ -149,3 +149,11 @@ body{
 #footer .credits {
   font-size: 13px;
 }
+
+/* Media queries  */
+ /* Style for Small Screen */
+ @media (max-width:575px) {
+  /* The horrible Profile pic on mobile */
+  #profile-pic{width: 100px;
+  margin: 0 auto;}
+  }

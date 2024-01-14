@@ -18,7 +18,7 @@ function Navbar() {
       <img src={logo_AV} id="logo"/>
       </a>
       <button onClick={()=>openMenu()} className="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
+      <i className='fa fa-bars fs-3 text-primary'></i>
       </button>
 
       <div className="navbar-collapse offcanvas-collapse">
