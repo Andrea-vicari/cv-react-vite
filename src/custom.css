@@ -155,5 +155,6 @@ body{
  @media (max-width:575px) {
   /* The horrible Profile pic on mobile */
   #profile-pic{width: 100px;
-  margin: 0 auto;}
+  margin: 0 auto  ;}
+  #footer{padding-top:20px ;}
   }
