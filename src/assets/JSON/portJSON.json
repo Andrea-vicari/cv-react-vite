@@ -1,9 +1,9 @@
 [{
     "introImage":"./port_img/logo_fitness.png",
-    "thumbImage":"./port_img/Fitness_thumb_land.png",
+    "thumbImage":"./port_img/Fitness_thumb-land.jpg",
     "type":"portfolio_post",
     "shortTitle":"Fitness",
-    "title":"Fitness",
+    "title":"FitnessCenter",
     "excerpt":"A Full Stack project built with React, Node and MongoDB",
     "category":"React",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
