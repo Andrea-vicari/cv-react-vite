@@ -71,10 +71,7 @@ const hideButton=(whatHide)=>{
             <div>
             <a id={i+1000} className="fs-4 btn btn-outline-primary align-items-center mx-2" href={d.extLink} target='_blank'>
                 <i className='fa fa-desktop px-2 fs-4'></i>
-                See Live</a>
-            <a id={i+2000} className="mt-2 fs-4 btn btn-outline-primary align-items-center mx-2" href={d.extLink} target='_blank'>
-                <i className='fab fa-github px-2 fs-4'></i>
-                GitHUB</a>
+            </a>
             </div>
 
 
