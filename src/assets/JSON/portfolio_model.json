@@ -1,14 +1,14 @@
 {
     "introImage":"./port_img/logo_fitness.png",
-    "thumbImage":"./port_img/Fitness_thumb_land.png",
+    "thumbImage":"./port_img/Fitness_thumb-land.jpg",
     "type":"portfolio_post",
-    "shortTitle":"Fitness",
-    "title":"Fitness",
-    "excerpt":"A Full Stack project built with React, Node and MongoDB",
+    "shortTitle":"DrumPad",
+    "title":"Drum Pad",
+    "excerpt":"DrumPad built with React, Node and MongoDB",
     "category":"React",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
-    "GITLink":"https://github.com/Andrea-vicari/food-rout/",
-    "extLink":"https://food-rout.vercel.app/",
-    "description":"<p>A complete FULL STACK MERN project for a Fitness Center. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.</p><p>Registration of the users with JWT web token, password encryption with Bcrypt package.</p><p>Two kind of users are present: TRAINER and USER. Trainer is able to see all the users, Create a new workout and assign it the status CLOSED. User can see and use it's own Workout scheda and also is able to see the past workout, keeping track of the progress.</p>",
-    "modal_images":["./port_img/Fitness_large.jpg"]
+    "GITLink":"https://github.com/Andrea-vicari/Fitness-Center",
+    "extLink":"https://youtu.be/Gjjc0ujPXWE?feature=shared",
+    "description":"<p>DrumPAD built with React. A FULL STACK MERN project. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.</p><p>Registration of the users with JWT web token, password encryption with Bcrypt package.</p><p>Private Dashboard for logged user to customize its own keyboard, after registration/login, User can CUSTOMIZE its own keyboard choosin' between a list more than 30 tracks for each key. Each Track shows BPM and genre in order to create a full customized keyboard.</p>",
+    "modal_images":["./port_img/DrumMachine_GITHub_cover.jpg"]
 }
