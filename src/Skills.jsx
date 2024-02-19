@@ -5,8 +5,33 @@ function Skills() {
         <div className="container">
         <div className="section-title text-white text-center mb-3 py-3">
         <h2>Skills</h2>
-        <h5>As a front-end developer, I possess a strong foundation in HTML, CSS, and JavaScript, with experience in modern front-end frameworks such as React and Bootstrap.</h5>
+        <h5>As a front-end developer, I possess a strong foundation in HTML, CSS, and JavaScript, with experience in modern front-end frameworks such as React and Bootstrap. Lately i take the chanche to hardly work on my back-end skills, learning how to set up Full Stack projects, mainly using Node.js and Mongo DB</h5>
       </div>
+      <div className="row mb-3">
+            <div className="col-md-2"></div>
+              <div className="col-md-8 h-100 p-3 bg-dark text-white">
+                <div className="row">
+                    <div className="col-md-10">
+                    <div className="p-2 bg-dark rounded-3">
+                    <h2 className="text-primary">NodeJS</h2>
+                    <ul>
+                      <li>Able to use package managers such as npm to manage dependencies.</li>
+                      <li>Able to fetch datas from a MYSQL database</li>
+                      <li>Ability to set up a MERN Full stack project</li>
+                      <li>Familiarity with error handling, understanding how to use error handling</li>
+                      <li>Basic knowledge of Express.js</li>
+                    </ul>
+
+                  </div>
+                    </div>
+                    <div className="col-md-2 text-center align-items-center d-flex justify-content-center">
+                    <i className="fab fa-node display-1 text-white"></i>
+                    </div>
+                </div>
+
+              </div>
+            <div className="col-md-2"></div>
+          </div>
 
           <div className="row mb-3">
             <div className="col-md-2"></div>
@@ -138,30 +163,7 @@ function Skills() {
               </div>
             <div className="col-md-2"></div>
           </div>
-          <div className="row mb-3">
-            <div className="col-md-2"></div>
-              <div className="col-md-8 h-100 p-3 bg-dark text-white">
-                <div className="row">
-                    <div className="col-md-10">
-                    <div className="p-2 bg-dark rounded-3">
-                    <h2 className="text-primary">Node</h2>
-                    <ul>
-                      <li>Able to use package managers such as npm to manage dependencies.</li>
-                      <li>Able to fetch datas from a MYSQL database</li>
-                      <li>Familiarity with error handling, understanding how to use error handling</li>
-                      <li>Basic knowledge of Express.js</li>
-                    </ul>
 
-                  </div>
-                    </div>
-                    <div className="col-md-2 text-center align-items-center d-flex justify-content-center">
-                    <i className="fab fa-node display-1 text-white"></i>
-                    </div>
-                </div>
-
-              </div>
-            <div className="col-md-2"></div>
-          </div>
 
 
 

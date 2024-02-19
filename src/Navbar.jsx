@@ -1,5 +1,5 @@
 import logo_AV from './assets/logo_AV.png';
-import CV from './assets/CV_AndreaVicari_DEC23_EN.pdf';
+import CV from './assets/CV_AndreaVicari_FEB24_ITA.pdf';
 
 function Navbar() {
 
