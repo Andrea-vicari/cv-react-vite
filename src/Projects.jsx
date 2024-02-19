@@ -69,6 +69,7 @@ const hideButton=(whatHide)=>{
             <p className='fs-5' dangerouslySetInnerHTML={{__html: d.description}}>
             </p>
             <div>
+              <h5>SEE LIVE</h5>
             <a id={i+1000} className="fs-4 btn btn-outline-primary align-items-center mx-2" href={d.extLink} target='_blank'>
                 <i className='fa fa-desktop px-2 fs-4'></i>
             </a>
