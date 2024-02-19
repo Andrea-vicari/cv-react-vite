@@ -1,14 +1,14 @@
 {
-    "introImage":"./port_img/logo_fitness.png",
-    "thumbImage":"./port_img/Fitness_thumb-land.jpg",
-    "type":"portfolio_post",
+    "introImage":"./port_img/DrumPad.png",
+    "thumbImage":"./port_img/DrumPad_thumb_land.png",
+     "type":"portfolio_post",
     "shortTitle":"DrumPad",
     "title":"Drum Pad",
     "excerpt":"DrumPad built with React, Node and MongoDB",
     "category":"React",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
-    "GITLink":"https://github.com/Andrea-vicari/Fitness-Center",
-    "extLink":"https://youtu.be/Gjjc0ujPXWE?feature=shared",
+    "GITLink":"https://github.com/Andrea-vicari/DrumMachine-MERN",
+    "extLink":"https://deploy-mern-api-render-frontend.vercel.app/",
     "description":"<p>DrumPAD built with React. A FULL STACK MERN project. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.</p><p>Registration of the users with JWT web token, password encryption with Bcrypt package.</p><p>Private Dashboard for logged user to customize its own keyboard, after registration/login, User can CUSTOMIZE its own keyboard choosin' between a list more than 30 tracks for each key. Each Track shows BPM and genre in order to create a full customized keyboard.</p>",
     "modal_images":["./port_img/DrumMachine_GITHub_cover.jpg"]
 }
