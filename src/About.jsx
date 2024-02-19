@@ -19,7 +19,7 @@ function About() {
 
                 <a id="profile-link" href="https://github.com/Andrea-vicari" target="_blank" className="btn text-white" ><i className="fab fa-github text-primary fs-2"></i> GitHub</a >
                 <a href="https://codepen.io/AndreDedeVic" target="_blank" className="btn text-white" ><i className="fab fa-linkedin text-primary fs-2"></i> Linkedin</a>
-                <a href="https://codepen.io/AndreDedeVic" target="_blank" className="btn text-white" ><i className="fab fa-codepen text-primary fs-2"></i> Codepen</a>
+
 
               </div>
             </div>
