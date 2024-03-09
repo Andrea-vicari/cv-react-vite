@@ -7,7 +7,7 @@ import {ContactSection} from './Contact.jsx';
 import {Skills} from './Skills.jsx';
 import {Projects} from './Projects.jsx';
 import {Footer} from './Footer.jsx';
-
+import CookieConsent, { Cookies } from "react-cookie-consent";
 
 
 import './index.css';
@@ -33,5 +33,16 @@ ReactDOM.createRoot(document.getElementById('footer')).render(
     <div>
         <ContactSection />
         <Footer />
+        <CookieConsent
+        location="bottom"
+        buttonText="Sure man!!"
+        cookieName="myAwesomeCookieName2"
+        style={{ background: "#2B373B" }}
+        buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
+        expires={150}
+        >
+        This website uses cookies to enhance the user experience.{" "}
+        <span style={{ fontSize: "10px" }}>This bit of text is smaller :O</span>
+        </CookieConsent>
     </div>
 )

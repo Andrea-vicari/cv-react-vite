@@ -1,6 +1,7 @@
 import logo from './assets/logo_AV.png';
 import logoVite from './assets/vite.svg';
 
+
 function Footer() {
 
   return (
