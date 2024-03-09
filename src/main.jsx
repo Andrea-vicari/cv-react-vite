@@ -35,13 +35,13 @@ ReactDOM.createRoot(document.getElementById('footer')).render(
         <Footer />
         <CookieConsent
         location="bottom"
-        buttonText="Accept"
+        buttonText="Ok, Accept"
         cookieName="myAwesomeCookieName2"
         style={{ background: "#2B373B" }}
-        buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
+        buttonStyle={{ color: "#0d6efd", fontSize: "13px" }}
         expires={150}
         >
-        This website uses cookies to enhance the user experience. Only functional cookies are used, no adv cookies or any usr data will be collected.
+        This website uses cookies to enhance the user experience. Only functional cookies are used, no adv cookies or any user data will be collected.
         </CookieConsent>
     </div>
 )
