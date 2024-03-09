@@ -41,8 +41,7 @@ ReactDOM.createRoot(document.getElementById('footer')).render(
         buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
         expires={150}
         >
-        This website uses cookies to enhance the user experience.{" "}
-        <span style={{ fontSize: "10px" }}>Only functional cookies are used, no adv cookies or any usr data will be collected </span>
+        This website uses cookies to enhance the user experience. Only functional cookies are used, no adv cookies or any usr data will be collected.
         </CookieConsent>
     </div>
 )
