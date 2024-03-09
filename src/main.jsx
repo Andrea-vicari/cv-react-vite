@@ -37,8 +37,8 @@ ReactDOM.createRoot(document.getElementById('footer')).render(
         location="bottom"
         buttonText="Ok, Accept"
         cookieName="myAwesomeCookieName2"
-        style={{ background: "#2B373B" }}
-        buttonStyle={{ color: "#0d6efd", fontSize: "13px" }}
+        style={{ background: "#0d6efd" }}
+        buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
         expires={150}
         >
         This website uses cookies to enhance the user experience. Only functional cookies are used, no adv cookies or any user data will be collected.
