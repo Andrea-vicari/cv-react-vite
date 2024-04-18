@@ -1,0 +1,132 @@
+[{
+    "introImage":"./port_img/logo_fitness.png",
+    "thumbImage":"./port_img/Fitness_thumb-land.jpg",
+    "type":"portfolio_post",
+    "shortTitle":"Fitness",
+    "title":"FitnessCenter",
+    "excerpt":"A Full Stack project built with React, Node and MongoDB",
+    "category":"React",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"https://github.com/Andrea-vicari/Fitness-Center",
+    "extLink":"https://youtu.be/Gjjc0ujPXWE?feature=shared",
+    "description":"A complete FULL STACK MERN project for a Fitness Center. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.Registration of the users with JWT web token, password encryption with Bcrypt package.Two kind of users are present: TRAINER and USER. Trainer is able to see all the users, Create a new workout and assign it the status CLOSED. User can see and use it's own Workout scheda and also is able to see the past workout, keeping track of the progress.",
+    "modal_images":["./port_img/Fitness_large.jpg"]
+},{
+    "introImage":"./port_img/DrumPad.png",
+    "thumbImage":"./port_img/DrumPad_thumb_land.png",
+     "type":"portfolio_post",
+    "shortTitle":"DrumPad",
+    "title":"Drum Pad",
+    "excerpt":"DrumPad built with React, Node and MongoDB",
+    "category":"React",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"https://github.com/Andrea-vicari/DrumMachine-MERN",
+    "extLink":"https://deploy-mern-api-render-frontend.vercel.app/",
+    "description":"DrumPAD built with React. A FULL STACK MERN project. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.Registration of the users with JWT web token, password encryption with Bcrypt package.Private Dashboard for logged user to customize its own keyboard, after registration/login, User can CUSTOMIZE its own keyboard choosin' between a list more than 30 tracks for each key. Each Track shows BPM and genre in order to create a full customized keyboard.",
+    "modal_images":["./port_img/DrumMachine_GITHub_cover.jpg"]
+},
+{
+    "introImage":"./port_img/WorldFood_intro.png",
+    "thumbImage":"./port_img/WorldFood_thumb.png",
+    "type":"portfolio_post",
+    "shortTitle":"worldfood",
+    "title":"WorldFood",
+    "excerpt":"A Single Page Application built with React and API",
+    "category":"React",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"https://github.com/Andrea-vicari/food-rout/",
+    "extLink":"https://food-rout.vercel.app/",
+    "description":"A Single Page Application built with React and API A collection of more than 300 internation recipes, sorted in contries and categories. Project installed using Vite and Bootstrap, with the npm package npm install react-bootstrap bootstrap. All the recipes are retrived via JSON using a FREE API of TheMealDB Flags svg generated via FLAG ICONS: A curated collection of all country flags in SVG format",
+    "modal_images":["./port_img/WorldFood_GitHub_cover_new.jpg"]
+},{
+    "introImage":"./port_img/Resume_intro.png",
+    "thumbImage":"./port_img/Resume_thumb_land.png",
+    "type":"portfolio_post",
+    "shortTitle":"resume",
+    "title":"This Website",
+    "excerpt":"Portfolio website coded with React.js and Bootstrap5",
+    "category":"Javascript",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"#",
+    "GITLink":"#",
+    "description":"Project installed using Vite and Bootstrap, with the npm package npm install react-bootstrap bootstrap.  Portfolio projects are stored locally in a JSON file, coming from an old version of my Portfolio. Datas of the projects are fetched using UseState Hook and layout composed mapping through the objects. Because some elements contain HTML tags, i used dangerouslySetInnerHTML property to render them correctly. Each projects, after the click, opens the Description using the Bootstrap Modals.</p>",
+    "modal_images":["./port_img/Resume_GitHub_cover.jpg"]
+},{
+    "introImage":"./port_img/Geotrak_thumb_land.png",
+    "thumbImage":"./port_img/Geotrak_thumb_land.png",
+    "type":"portfolio_post",
+    "title":"Geotrak",
+    "shortTitle":"geotrak",
+    "excerpt":"Rental, Assistance of R/C demolition machines.",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"http://www.geotrak.it/",
+    "GITLink":"no_git_link",
+    "description":"Geotrak S.r.l: a company specialized in the sale, rental and assistance of radio-controlled demolition machines. For this project, i worked together with a graphic-designer Raffaella Nozza Comunicazione, who provided me all the graphic assets like the logo, the icons, technical sheets, list of products ecc.I used BeTheme with Visual composer to design the layout and completely cooperated with the customer to sort the categories the several tools. We decided to use an AJAX plugin (Cube portfolio) to compose the Product page, which has a pretty and clean design.",
+    "modal_images":["./port_img/Geotrak_large.jpg"]
+},
+{
+    "introImage":"./port_img/OutletPietreNaturali.png",
+    "thumbImage":"./port_img/OutletPietre_thumb.png",
+    "type":"portfolio_post",
+    "shortTitle":"outlet",
+    "title":"Outlet Pietra",
+    "excerpt":"Cladding Stones sales market company",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"http://www.outletdellapietranaturale.it/",
+    "GITLink":"no_git_link",
+    "description":"Website for a company near Bergamo, operating in the Cladding Stones sales market. For this project i was involved in the design process, using Wordpress and customizing BeTheme with Visual Composer plugin, working mailnly on the Css part. After a briefing with the client, I chose the design that best suited its needs and and I took care of the content organization as well as the graphics and the logo restyling.",
+    "modal_images":["./port_img/OutletPietre_large.png"]
+
+
+},
+
+{
+    "introImage":"./port_img/EuroPRG_intro.png",
+    "thumbImage":"./port_img/EuroPRG_thumb_land.png",
+    "modal_images":"./port_img/EuroPRG_large.jpg",
+    "type":"portfolio_post",
+    "title":"Euro PRG",
+    "shortTitle":"euroPRG",
+    "excerpt":"A multi-disciplinary engineering plants company",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"http://www.europrg.it/",
+    "GITLink":"no_git_link",
+    "description":"Europrogetti Engineering S.r.l. is a multi-disciplinary engineering company specialized in development of industrial plants. This project was managed during my experience in OneCall S.r.l a former Marketing agency in Monza. This website was developed with WordPress using a custom Wordpress Theme coded by my self converting a free Bootstrap HTML template. The template used was Andia and it is still working smooth, after almost 10 years. The website was developed in two languages, without using a plugin but simply inserting the different languages in two different directories. It was a low-budget project, with a custom made theme, but it is ligth-weight and still functional and responsive after many years"
+
+
+},
+{
+    "introImage":"./port_img/Clear_intro.png",
+    "thumbImage":"./port_img/Clear_thumb_land.png",
+    "modal_images":"./port_img/Clear_large.jpg",
+    "type":"portfolio_post",
+    "title":"Clear 2.0",
+    "shortTitle":"clear",
+    "excerpt":"Networking Service, I.T. & TeleComunication",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "extLink":"https://clearitaly.com/",
+    "GITLink":"no_git_link",
+    "description":"Clear 2.0, based in Vertova, Bergamo, a company with more than 20 years of background in the I.T Networking business. The customer needed to re-style his previous website. Layout composed using Betheme, Visual composer and a lot of Css customizations all well commented for future changes. The task was to find a clear and high-tech design, i took particularly care of the About section, showing all the several product they sell. Since they are electronic-component reseller, after a year, they decided to add a private e-commerce area, using Woocommerce in order to sell only to selected Customers. The main task was to collect, sort all the technical sheets, the descriptions and to train the Customer to insert all the productsusing the Woocommerce back-end."
+
+},
+{
+    "introImage":"./port_img/Osteria-La-vecchia-lira-Milano-logo.png",
+    "thumbImage":"./port_img/OsteriaLaVecchiaLira_thumb.png",
+    "modal_images":"./port_img/OsteriaLaVecchiaLira_large.jpg",
+    "type":"portfolio_post",
+    "title":"La Vecchia Lira",
+    "shortTitle":"vecchialira",
+    "excerpt":"Website for a typical restaurant in Brera, Milan",
+    "category":"Wordpress",
+    "cat_symbol":"<i class=\"fab fa-wordpress project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"no_git_link",
+    "extLink":"https://www.osteriavecchialira.it/",
+    "description":"La Vecchia Lira, an historical restaurant in Largo La Foppa, Milan.The customer needed to completely restyle his previous old-school not responsive website. The main task was not to completely change the old-style \"flavour\" thinking about the historical context this restaurant is. I developed the website with BeTheme, taking care of sorting all the recipes, the wines trying to compose a clear layout, especially in the Menu and Cantina pages, as well as the Galleria page, filled with many photos taken from a professional food-photographer.Technically not a big project, but with many text and photos to manage and sort."
+
+
+}]
+

@@ -1,0 +1,45 @@
+
+[{
+    "thumbImage":"./portfolio_images/port_web_react.jpg",
+    "title":"Title1",
+    "category":"React",
+    "extLink":"#",
+    "description":"Fitness Center React Application. Full STACK application built with Node, Express, MongoDB and React. Both FrontEnd and Back End deployed on Vercel platform."
+
+},
+{
+    "thumbImage":"./portfolio_images/port_web_jwt.jpg",
+    "title":"Title2",
+    "category":"Jwt",
+    "extLink":"#",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo placeat ratione alias corrupti asperiores temporibus repellat magnam, nemo dolore doloremque facere. Suscipit labore sint sequi, nisi vel adipisci inventore quia."
+
+},
+{
+    "thumbImage":"./portfolio_images/port_web_js.jpg",
+    "title":"Title3",
+    "category":"Javascript",
+    "extLink":"#",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo placeat ratione alias corrupti asperiores temporibus repellat magnam, nemo dolore doloremque facere. Suscipit labore sint sequi, nisi vel adipisci inventore quia."
+},
+{
+    "thumbImage":"./portfolio_images/port_web_mongo.jpg",
+    "title":"Title4",
+    "category":"Mongo",
+    "extLink":"#",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo placeat ratione alias corrupti asperiores temporibus repellat magnam, nemo dolore doloremque facere. Suscipit labore sint sequi, nisi vel adipisci inventore quia."
+},
+{
+    "thumbImage":"./portfolio_images/port_web_postman.jpg",
+    "title":"Title5",
+    "category":"Node",
+    "extLink":"#",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo placeat ratione alias corrupti asperiores temporibus repellat magnam, nemo dolore doloremque facere. Suscipit labore sint sequi, nisi vel adipisci inventore quia."
+},
+{
+    "thumbImage":"./portfolio_images/port_web_vite.jpg",
+    "title":"Title6",
+    "category":"Mongo",
+    "extLink":"#",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo placeat ratione alias corrupti asperiores temporibus repellat magnam, nemo dolore doloremque facere. Suscipit labore sint sequi, nisi vel adipisci inventore quia."
+}]

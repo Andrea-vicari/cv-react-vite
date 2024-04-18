@@ -1,0 +1,28 @@
+[{
+   "Date":13,
+   "Month":"Mar",
+    "title":"Installing Vite.js",
+    "NewsImg":"./news_images/news1.jpg",
+    "ThumbImg":"./news_images/news1_thumb.jpg",
+    "excerpt":"How to install React using Vite to develop your next app",
+    "description":"descrizione del post descrizione del post"
+},
+{
+    "Date":14,
+    "Month":"Mar",
+     "title":"Deploy React app on Render",
+     "NewsImg":"./news_images/news2.jpg",
+     "ThumbImg":"./news_images/news2_thumb.jpg",
+     "excerpt":"In this article we will share how to deploy a react app on Render",
+     "description":"In this article we will share how to deploy a static react App on Render"
+ },
+ {
+     "Date":22,
+     "Month":"Mar",
+      "title":"Deploy a Mern app on Vercel",
+      "NewsImg":"./news_images/new3.jpg",
+      "ThumbImg":"./news_images/new3_thumb.jpg",
+      "excerpt":"In this article we will share how to deploy a Mern stack project",
+      "description":"In this article we will share how to deploy a Mern stack project on Vercel platform, deploying before the Back End sdide and then the front end"
+  }]
+
