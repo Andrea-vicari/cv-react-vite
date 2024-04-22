@@ -5,8 +5,8 @@
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed;
-    bottom: 110px;
-    right: 22px;
+    bottom: 10px;
+    left: 2px;
     z-index: 99;
     border: none;
     outline: none;
