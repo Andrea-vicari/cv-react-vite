@@ -37,7 +37,7 @@ function Footer() {
         </div>
         <button id="myBtn" onClick={scrollToTop} style={{display: visible ? 'block' : 'none'}} className='btn btn-sm btn-warning'>
             <i className="bi bi-arrow-bar-up"></i>
-          </button>
+        </button>
     </footer>
     </React.Fragment>
   )
