@@ -35,7 +35,7 @@ function Footer() {
             <hr></hr>
             <p className='text-black'>&copy;2024 Andrea Vicari || Site developed with <a  href='https://omsel-portfolio.vercel.app/' target='_blank'><span className='text-white'> Omsel </span></a>  React theme</p>
         </div>
-        <button id="myBtn" onClick={scrollToTop} style={{display: visible ? 'block' : 'none'}} className='btn btn-sm btn-warning'>
+        <button id="myBtn" onClick={scrollToTop} style={{display: visible ? 'block' : 'none'}} className='btn btn-sm btn-black'>
             <i className="bi bi-arrow-bar-up"></i>
         </button>
     </footer>

@@ -4,17 +4,16 @@
 
 #myBtn {
   display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 3px; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  color: white; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 5px; /* Some padding */
-  /* border-radius: 10px; Rounded corners */
-  font-size: 1rem; /* Increase font size */
+  position: fixed;
+    bottom: 110px;
+    right: 22px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 0.8rem;
 }
 
 #myBtn:hover {
