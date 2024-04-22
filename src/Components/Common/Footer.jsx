@@ -34,12 +34,10 @@ function Footer() {
             </ul>
             <hr></hr>
             <p className='text-black'>&copy;2024 Andrea Vicari || Site developed with <a  href='https://omsel-portfolio.vercel.app/' target='_blank'><span className='text-white'> Omsel </span></a>  React theme</p>
-
-
         </div>
-        <button id="myBtn" onClick={scrollToTop} style={{display: visible ? 'inline' : 'none'}} className='btn btn-sm btn-primary'>
-          <i className='bi bi-arrow-up-square-fill'></i>
-        </button>
+        <button id="myBtn" onClick={scrollToTop} style={{display: visible ? 'inline' : 'none'}} className='btn btn-sm btn-outline-secondary'>
+            <i className="bi bi-arrow-bar-up"></i>
+          </button>
     </footer>
     </React.Fragment>
   )
