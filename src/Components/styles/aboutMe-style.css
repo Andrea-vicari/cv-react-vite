@@ -95,4 +95,11 @@
   color: #82909c;
 }
 
+/* This one is to decrease the font size of the mail address when im small mobile*/
+@media only screen and (max-width: 400px) {
 
+  #small-mail{
+    font-size: 1rem;
+  }
+
+}
