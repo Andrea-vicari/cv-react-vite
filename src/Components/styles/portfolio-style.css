@@ -18,3 +18,9 @@ display: block !important;
 .attivo{
   background-color: red !important;
 }
+
+@media only screen and (min-width: 578px) {
+  .card{
+    min-height: 380px;
+  }
+}

@@ -18,7 +18,7 @@ function Portfolio() {
     // the length can be set by editing "arrayPh.length = x"
     const shorter = (phrase) =>{
       let arrayPh = phrase.split(' ');
-      arrayPh.length = 10;
+      arrayPh.length = 14;
       fixedLengthExcerpt = arrayPh.join(' ');
       return fixedLengthExcerpt
     }
@@ -152,7 +152,7 @@ function Portfolio() {
                             <img src={e.thumbImage}/>
                             <div className="card-body">
                                 <h2 className='fs-4 mb-0'>{e.title}</h2>
-                                <p className="card-text">{e.fixedLengthExcerpt}</p>
+                                <p className="card-text" dangerouslySetInnerHTML={{__html: e.fixedLengthExcerpt}}></p>
                                 <div className="d-flex justify-content-between align-items-center">
                                     <div className="btn-group">
                                         <button className="btn btn-outline-primary p-1" onClick={()=>openModal(i)}>
@@ -173,8 +173,8 @@ function Portfolio() {
 
                                         </div>
                                         <div className="modal-body py-3 text-center">
-                                            <img src={e.thumbImage} className='img-fluid'></img>
-                                        <h5 className="mt-3 fw-bold text-black-50">{e.description}</h5>
+                                            <img src={e.modal_images[0]} className='img-fluid'></img>
+                                        <h5 className="mt-3 fw-bold text-black-50" dangerouslySetInnerHTML={{__html: e.description}}></h5>
                                         <a href={e.extLink} target='_blank' className='btn btn-lg btn-outline-dark mt-5'>See Live</a>
                                         </div>
 

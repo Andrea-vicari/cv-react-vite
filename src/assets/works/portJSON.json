@@ -5,25 +5,38 @@
     "shortTitle":"Fitness",
     "title":"FitnessCenter",
     "excerpt":"A Full Stack project built with React, Node and MongoDB",
-    "category":"React",
+    "category":"FullStack",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
     "GITLink":"https://github.com/Andrea-vicari/Fitness-Center",
     "extLink":"https://youtu.be/Gjjc0ujPXWE?feature=shared",
-    "description":"A complete FULL STACK MERN project for a Fitness Center. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.Registration of the users with JWT web token, password encryption with Bcrypt package.Two kind of users are present: TRAINER and USER. Trainer is able to see all the users, Create a new workout and assign it the status CLOSED. User can see and use it's own Workout scheda and also is able to see the past workout, keeping track of the progress.",
+    "description":"<p>A complete FULL STACK MERN project for a Fitness Center. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.Registration of the users with JWT web token, password encryption with Bcrypt package.Two kind of users are present: TRAINER and USER. Trainer is able to see all the users, Create a new workout and assign it the status CLOSED. User can see and use it's own Workout scheda and also is able to see the past workout, keeping track of the progress.</p> <p>FEATURES:</p> <p>Mern Stack</p> <p>Admin area</p> <p>User access with JWT</p>",
     "modal_images":["./port_img/Fitness_large.jpg"]
 },{
-    "introImage":"./port_img/DrumPad.png",
-    "thumbImage":"./port_img/DrumPad_thumb_land.png",
+    "introImage":"./port_img/omsel_screen1.jpg",
+    "thumbImage":"./port_img/Ascar_thumb_land.png",
      "type":"portfolio_post",
-    "shortTitle":"DrumPad",
-    "title":"Drum Pad",
-    "excerpt":"DrumPad built with React, Node and MongoDB",
+    "shortTitle":"Ascar",
+    "title":"Ascar",
+    "excerpt":"React Multipage Theme with EmailJS Contact form",
     "category":"React",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
     "GITLink":"https://github.com/Andrea-vicari/DrumMachine-MERN",
-    "extLink":"https://deploy-mern-api-render-frontend.vercel.app/",
-    "description":"DrumPAD built with React. A FULL STACK MERN project. Server side using Node.js, Express and MongoDB and client side using React.js. Both deployed on Vercel platform.Registration of the users with JWT web token, password encryption with Bcrypt package.Private Dashboard for logged user to customize its own keyboard, after registration/login, User can CUSTOMIZE its own keyboard choosin' between a list more than 30 tracks for each key. Each Track shows BPM and genre in order to create a full customized keyboard.",
-    "modal_images":["./port_img/DrumMachine_GITHub_cover.jpg"]
+    "extLink":"https://ascar.onrender.com/",
+    "description":"<p>Ascar is a multi-page React Portfolio website that i tried to sell on Themeforest. It can be used to showcase projects or service. It is built with Bootstrap5 to ensure compatibility accross devices. It has a filterable portfolio section, easily customizable editing a local Json file. It also has a working contact form, to receive email without a Database. It can be used as a landing page, as a portfolio or resume website.</p><p>FEATURES</p><p>React JS</p> <p>Bootstrap5</p> <p>Ligth-Dark mode</p> <p>React Router DOM</p> <p>Filterable Json portfolio</p> <p>Blog page with JSON files</p> <p>Working EmailJS Contact Form</p> <p>React Functional components</p>",
+    "modal_images":["./port_img/ascar_screen1.jpg"]
+},{
+    "introImage":"./port_img/omsel_screen1.jpg",
+    "thumbImage":"./port_img/Omsel_thumb_land.png",
+     "type":"portfolio_post",
+    "shortTitle":"Omsel",
+    "title":"Omsel",
+    "excerpt":"React Theme with EmailJS Contact form",
+    "category":"React",
+    "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
+    "GITLink":"https://github.com/Andrea-vicari/DrumMachine-MERN",
+    "extLink":"https://omsel-portfolio.vercel.app/",
+    "description":"<p>Omsel is a React Portfolio website that i tried to sell on Themeforest. It can be used to showcase projects or service. It is built with Bootstrap5 to ensure compatibility accross devices. It has a filterable portfolio section, easily customizable editing a local Json file. It also has a working contact form, to receive email without a Database. It can be used as a landing page, as a portfolio or resume website.</p><p>FEATURES</p><p>React JS</p> <p>Bootstrap5</p> <p>Ligth-Dark mode</p> <p>Sass files for easy customization</p> <p>Filterable Json portfolio</p> <p>Setup & Live Deployment video-instructions</p> <p>Working EmailJS Contact Form</p> <p>React Functional components</p>",
+    "modal_images":["./port_img/omsel_screen1.jpg"]
 },
 {
     "introImage":"./port_img/WorldFood_intro.png",
@@ -45,11 +58,11 @@
     "shortTitle":"resume",
     "title":"This Website",
     "excerpt":"Portfolio website coded with React.js and Bootstrap5",
-    "category":"Javascript",
+    "category":"React",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
     "extLink":"#",
     "GITLink":"#",
-    "description":"Project installed using Vite and Bootstrap, with the npm package npm install react-bootstrap bootstrap.  Portfolio projects are stored locally in a JSON file, coming from an old version of my Portfolio. Datas of the projects are fetched using UseState Hook and layout composed mapping through the objects. Because some elements contain HTML tags, i used dangerouslySetInnerHTML property to render them correctly. Each projects, after the click, opens the Description using the Bootstrap Modals.</p>",
+    "description":"<p>Project installed using Vite and Bootstrap, and used as a test for my React theme Omsel</p><p>FEATURES</p><p>React JS</p> <p>Bootstrap5</p> <p>Ligth-Dark mode</p> <p>Sass files for easy customization</p> <p>Filterable Json portfolio</p> <p>Setup & Live Deployment video-instructions</p> <p>Working EmailJS Contact Form</p> <p>React Functional components</p>",
     "modal_images":["./port_img/Resume_GitHub_cover.jpg"]
 },{
     "introImage":"./port_img/Geotrak_thumb_land.png",
@@ -85,7 +98,7 @@
 {
     "introImage":"./port_img/EuroPRG_intro.png",
     "thumbImage":"./port_img/EuroPRG_thumb_land.png",
-    "modal_images":"./port_img/EuroPRG_large.jpg",
+    "modal_images":["./port_img/EuroPRG_large.jpg"],
     "type":"portfolio_post",
     "title":"Euro PRG",
     "shortTitle":"euroPRG",
@@ -97,11 +110,12 @@
     "description":"Europrogetti Engineering S.r.l. is a multi-disciplinary engineering company specialized in development of industrial plants. This project was managed during my experience in OneCall S.r.l a former Marketing agency in Monza. This website was developed with WordPress using a custom Wordpress Theme coded by my self converting a free Bootstrap HTML template. The template used was Andia and it is still working smooth, after almost 10 years. The website was developed in two languages, without using a plugin but simply inserting the different languages in two different directories. It was a low-budget project, with a custom made theme, but it is ligth-weight and still functional and responsive after many years"
 
 
+
 },
 {
     "introImage":"./port_img/Clear_intro.png",
     "thumbImage":"./port_img/Clear_thumb_land.png",
-    "modal_images":"./port_img/Clear_large.jpg",
+    "modal_images":["./port_img/Clear_large.jpg"],
     "type":"portfolio_post",
     "title":"Clear 2.0",
     "shortTitle":"clear",
@@ -116,7 +130,7 @@
 {
     "introImage":"./port_img/Osteria-La-vecchia-lira-Milano-logo.png",
     "thumbImage":"./port_img/OsteriaLaVecchiaLira_thumb.png",
-    "modal_images":"./port_img/OsteriaLaVecchiaLira_large.jpg",
+    "modal_images":["./port_img/OsteriaLaVecchiaLira_large.jpg"],
     "type":"portfolio_post",
     "title":"La Vecchia Lira",
     "shortTitle":"vecchialira",
