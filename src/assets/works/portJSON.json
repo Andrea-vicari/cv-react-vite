@@ -8,8 +8,9 @@
     "category":"FullStack",
     "cat_symbol":"<i class=\"fab fa-react project_label_icon fs-1 text-primary\"></i>",
     "GITLink":"https://github.com/Andrea-vicari/autoparts",
+    "extLink":"https://github.com/Andrea-vicari/autoparts",
     "description":"<p>A complete FULL STACK MERN project for an Automotive Warehouse.Server side using Node.js, Express and MongoDB and client side using React.js. User can add Automotive components, filter by car model and type, check a single warehouse presence.</p> <p>FEATURES:</p> <p>Mern Stack</p> <p>Pagination</p> <p>Filter</p>",
-    "modal_images":["./port_img/Fitness_large.jpg"]
+    "modal_images":["./port_img/Autoparts_thumb_land.png"]
 },{
     "introImage":"./port_img/logo_fitness.png",
     "thumbImage":"./port_img/Fitness_thumb-land.jpg",
