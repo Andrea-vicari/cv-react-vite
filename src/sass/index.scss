@@ -8,7 +8,7 @@ $primary:#0f7dec;
 @import '/node_modules/bootstrap/scss/bootstrap.scss';
 
 body{
-	font-family: Lato, Arial, sans-serif;
+	font-family: "Fira Code", monospace;
 	font-size:18px;
 	color:#7a7c7f;
 	font-weight:300;
@@ -21,13 +21,14 @@ h3,
 h4,
 h5,
 h6{
-	font-family: Lato, Arial, sans-serif;
+	font-family: "Fira Code", monospace;
     font-weight:400;
     letter-spacing:0.02em;
     margin:0 0 20px;
 }
 
 p {
+   font-family: "Fira Code", monospace;
     font-size:18px;
     line-height:24px;
     font-weight:300;
