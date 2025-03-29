@@ -76,7 +76,7 @@
 .about .content .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
-  font-family: Lato, Arial, sans-serif;
+  font-family: "Fira Code", monospace;
   font-size: 14px;
   color: #5d6a75;
 }
@@ -87,7 +87,7 @@
   margin-top: 20px;
   color: #5d6a75;
   font-size: 15px;
-  font-family: Lato, Arial, sans-serif;
+  font-family: "Fira Code", monospace;
   transition: ease-in-out 0.3s;
 }
 
