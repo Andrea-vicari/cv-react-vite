@@ -12,6 +12,7 @@ RED :  ea2222
   background-size: cover;
   position: relative;
   top: 45px;
+  margin-bottom:-8px
 }
 
 #hero:before {
