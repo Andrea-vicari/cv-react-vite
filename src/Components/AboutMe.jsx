@@ -33,7 +33,7 @@ function Bio() {
                                             <li><i className="bi bi-chevron-right text-primary"></i> <strong>Name:</strong> <span>Andrea Vicari
                                             </span></li>
                                             <li><i className="bi bi-chevron-right text-primary"></i> <strong>Email:</strong>
-                                                <span id='small-mail' className="fs-6">andrea.vicari77@gmail.com</span>
+                                                <span id="small-mail">andrea.vicari77@gmail.com</span>
                                             </li>
                                             <li><i className="bi bi-chevron-right text-primary"></i> <strong>Phone:</strong> <span>+39 3518902159</span></li>
                                             <li><i className="bi bi-chevron-right text-primary"></i> <strong>City:</strong> <span>Monza,
